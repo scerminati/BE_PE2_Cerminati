@@ -17,13 +17,13 @@ Este proyecto es la programación del Backend del E-Commerce So-Games, para jueg
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/scerminati/BE_PE1_Cerminati.git
+git clone https://github.com/scerminati/BE_PE2_Cerminati.git
 ```
 
 2. Navegar al directorio del repositorio
 
 ```bash
-cd BE-PE1-Cerminati
+cd BE-PE2-Cerminati
 ```
 
 3. Instalar las dependencias
